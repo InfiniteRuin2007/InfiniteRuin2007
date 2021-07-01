@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning how to use this
 - 💞️ I’m looking to collaborate on my skills 
-- 📫 How to reach me: tanika.holder@hotmail.com
+
 
 <!---
 InfiniteRuin2007/InfiniteRuin2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
